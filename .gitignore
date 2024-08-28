@@ -5,6 +5,7 @@
 .project
 bin/
 build/
+appinventor/build/
 reports/
 *~
 *.out
